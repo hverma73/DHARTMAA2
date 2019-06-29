@@ -1,0 +1,35 @@
+.db{
+    float: right;    
+    margin-top: 2vh;
+}
+.db_1{
+    margin-right: 1.5vw;
+}
+.box11{
+    margin-top: 2.5vh;
+    text-align: left;
+    height: 4vh;
+    margin-right: 3vw;
+    padding-left: 2px;
+}
+.footer .jb li a{
+    
+    font-size: 20px;
+    line-height: 2;
+    display: block;
+    width: 40px;
+    height: 40px;
+    margin: 10px 10px 0 0;
+    text-align: center;
+    /*border: 1px solid #a3a3a3;*/
+    border-radius: 100%;
+    -webkit-transition: all 0.1s ease 0s;
+    -o-transition: all 0.1s ease 0s;
+    transition: all 0.1s ease 0s;
+}
+.footer .jb .li{
+    float: left;
+}
+.footer .ul{
+    display: inline-block
+}
